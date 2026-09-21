@@ -1,5 +1,4 @@
 # coffee-shop-sales-analysis-dashboard
-# Coffee Shop Sales Analysis Dashboard
 
 ## Project Overview
 An Excel-based sales analysis dashboard created to analyze 149K+ coffee shop transactions and identify meaningful business insights.
@@ -41,6 +40,7 @@ Excel | Data Analysis | Data Cleaning | PivotTables | Data Visualization | Dashb
 
 coffee-shop-sales-analysis-dashboard/
 │
-├── Coffee Shop Sales.xlsx
+├── 
 ├── README.md
-└── dashboard-preview.png
+└── <img width="1352" height="652" alt="dashboard-preview" src="https://github.com/user-attachments/assets/3ae46a4c-fa0c-4ae1-8c64-b5b2d9727b2e" />
+
